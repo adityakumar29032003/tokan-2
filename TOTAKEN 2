@@ -1,0 +1,11 @@
+{
+    "name": "machinery",
+    "description": "Digitize ownership of your machinery with NFTs: Proof of ownership guaranteed",
+    "image": "image url",
+    "attributes": [
+        {
+            "trait_type": "MMT5",
+            "value": "10000uandr"
+        }
+    ]
+}
